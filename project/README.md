@@ -1,0 +1,1 @@
+onClick on bulb image its change to on bulb then again click on bulb image its change to off bulb
